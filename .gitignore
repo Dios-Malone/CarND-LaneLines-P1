@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+issue_frames/
+issue_images/
+orig_frames/
